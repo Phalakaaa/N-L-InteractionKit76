@@ -19,6 +19,7 @@
 🕵️ Fouiller – Vérifiez ce qu’un joueur transporte sur lui.
 
 👜 Faire les poches – Récupérez discrètement des objets dans l'inventaire d'un joueur.
+
 -------------------------------------------------------------------------------------------------------
 📞 Contact
 Pour toute question, problème ou proposition lié au plugin, contactez-moi sur Discord : @phalakaa
