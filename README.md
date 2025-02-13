@@ -1,4 +1,4 @@
-# N-L InteractionKit76 🔌
+# N-L InteractionKit76 🔌 V- 1.0.0
 
 🎮 **Interaction Plugin est un plugin permettant d'ajouter des interactions essentielles dans votre jeu. Grâce à ce plugin, vous pouvez facilement accéder à différentes actions pour améliorer l'expérience de jeu !**
 
