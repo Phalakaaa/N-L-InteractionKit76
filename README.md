@@ -2,7 +2,7 @@
 
 🎮 **Interaction Plugin est un plugin permettant d'ajouter des interactions essentielles dans votre jeu. Grâce à ce plugin, vous pouvez facilement accéder à différentes actions pour améliorer l'expérience de jeu !**
 
-
+------------------------------------------------------------------------------------------------------
 
 ✨ **Fonctionnalités :**
 
@@ -20,6 +20,8 @@
 
 👜 Faire les poches – Récupérez discrètement des objets dans l'inventaire d'un joueur.
 
+--------------------------------------------------------------------------------------------------------
 
 🚀 Dépendance :
 https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/latest
+--------------------------------------------------------------------------------------------------------
