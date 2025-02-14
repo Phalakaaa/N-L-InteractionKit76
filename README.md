@@ -24,8 +24,8 @@ InteractionKit76 permet au joueur d'exécuter certaines actions en RP afin d'app
 
 ⛓️‍💥 # Comment l'utiliser  :
 
-⚙️ Dans un premier temps, votre serveur devra être muni des dépendances suivantes afin de faire fonctionner InteractionKit76.
-Dépendance :
+⚙️ **Dans un premier temps, votre serveur devra être muni des dépendances suivantes afin de faire fonctionner InteractionKit76.
+Dépendance :**
 https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/latest
 
 🔷 Appuyer sur la touche P afin d'ouvrir le Panel AAmenu !
@@ -37,7 +37,7 @@ https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/latest
 🔌 IntéractionKit76
 IntéractionKit76
 
- ⚠️ Ce plugin est une correction du Plugin de @Aarnow qui n'est plus à l'heure actuelle corriger ! 
+**⚠️Ce plugin est une correction du Plugin de @Aarnow qui n'est plus à l'heure actuelle corriger !** 
 
 -------------------------------------------------------------------------------------------------------
 📞 Contact
