@@ -1,9 +1,9 @@
-IntéractionKit76 🔌
-❓A quoi sert IntéractionKit76  
+# IntéractionKit76 🔌
+❓**A quoi sert IntéractionKit76**
 
 InteractionKit76 permet au joueur d'exécuter certaines actions en RP afin d'approfondir les scènes RP ! 🎭
 
-✨ Fonctionnalités :
+✨ **Fonctionnalités :**
 
 🔍 Montrer / Regarder la C.I – Présente ou consulte une carte d'identité facilement !
 
@@ -22,7 +22,7 @@ InteractionKit76 permet au joueur d'exécuter certaines actions en RP afin d'app
 ⏳ Après chaque interaction, un cooldown de 60 secondes est activé !
 
 
-⛓️‍💥 Comment l'utiliser  :
+⛓️‍💥 # Comment l'utiliser  :
 
 ⚙️ Dans un premier temps, votre serveur devra être muni des dépendances suivantes afin de faire fonctionner InteractionKit76.
 Dépendance :
