@@ -29,3 +29,4 @@ Pour toute question, problème ou proposition lié au plugin, contactez-moi sur 
 🚀 Dépendance :
 https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/latest
 --------------------------------------------------------------------------------------------------------
+Plugin Original By@Aarnow
