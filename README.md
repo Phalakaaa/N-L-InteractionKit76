@@ -6,19 +6,21 @@
 
 ✨ **Fonctionnalités :**
 
-🔍 Montrer / Regarder la C.I – Présente ou consulte une carte d'identité facilement.
+🔍 Montrer / Regarder la C.I – Présente ou consulte une carte d'identité facilement !
 
-🚗 Montrer / Regarder le permis B – Permet d'afficher ou de vérifier un permis de conduire.
+🚗 Montrer / Regarder le permis B – Permet d'afficher ou de vérifier un permis de conduire !
 
-⛑ Premiers secours – Apportez de l’aide en effectuant des actions de premiers secours.
+⛑ Premiers secours – Apportez de l’aide en effectuant des actions de premiers secours !
 
-🔗 Attacher / Détacher – Immobilisez ou libérez un joueur selon la situation.
+🔗 Attacher / Détacher – Immobilisez ou libérez un joueur selon la situation !
 
-💫 Assommer – Neutralisez temporairement une personne.
+💫 Assommer – Neutralisez temporairement une personne (La personne étant à terre de peux pas recevoir l'ordre afin de se faire réanimer) !
 
-🕵️ Fouiller – Vérifiez ce qu’un joueur transporte sur lui.
+🕵️ Fouiller – Fouillez l'inventaire d'un joueur !
 
-👜 Faire les poches – Récupérez discrètement des objets dans l'inventaire d'un joueur.
+👜 Faire les poches – Récupérez 10% de l'argent de poche du joueur !
+
+⏳ Après chaque interaction, un cooldown de 60 secondes est activé !
 
 -------------------------------------------------------------------------------------------------------
 📞 Contact
